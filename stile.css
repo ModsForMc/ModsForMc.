@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: centet;
+    bottom: 0;
+    width: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.google.com/search?q=galaxy&tbm=isch&chips=q:galaxy,g_1:space:hwv_pqhJgRw%3D&client=ms-android-motorola-rev2&prmd=isvn&hl=fr&sa=X&ved=2ahUKEwiajtivwOWCAxVamIkEHewJCkAQ4lYoAXoECAEQBw&biw=400&bih=673#imgrc=lK1OpXGWCi-gsM');
+    /* Other styles */
+}
